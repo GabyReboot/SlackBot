@@ -18,7 +18,7 @@ jsonData = ''' {
         "malicious-activity"
       ],
       "pattern": "[ipv4-addr:value = '10.0.0.0']",
-      "valid_from": "2014-05-08T09:00:00.000000Z"
+      "valid_from": "2014-05-08T09:00:00. 000000Z"
     }
   ]
 }
